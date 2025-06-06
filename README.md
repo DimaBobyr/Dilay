@@ -15,10 +15,9 @@ I believe in friendship <br />
 - web-page(https://orchestralabs.org/) <br /> 
 - discord(https://discord.gg/9CKUtjKJre) <br />
 
-##  I'm an ambassador for the Sputnik Network APPCHAIN project (https://sputnik.network/#ambassadors) <br /> 
+##  I'm an ambassador for the [Sputnik Network APPCHAIN](https://sputnik.network/#ambassadors) <br /> 
 
-## I'm a mentor at the Validator School (https://github.com/Distributed-Validators-Synctems) <br /> 
-- web-page: https://validators.network/ <br />
+## I'm a mentor at the [Validator School](https://github.com/Distributed-Validators-Synctems) <br /> 
 - [TG group of DVS](https://t.me/DVSynctems) <br /> 
 
 ## I write articles and guides on crypto projects  <br />
@@ -54,7 +53,7 @@ I believe in friendship <br />
 
 ## My social networks <br />
 
-- [my GitHub](https://github.com/DimaBobyr)) <br />
+- [my GitHub](https://github.com/DimaBobyr) <br />
 - [my Telegram](https://t.me/dilay4235) <br />
 - [my Twitter](https://x.com/Dima_Dilay) <br />
 - [my Medium](https://medium.com/@voltron1902zp) <br />
