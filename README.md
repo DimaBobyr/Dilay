@@ -10,7 +10,6 @@ I believe in friendship <br />
 - X https://x.com/Chiter_inCosmos <br />
 
 ## I'm an active member of the POSTHUMAN validator community (https://posthuman.digital/community) <br /> 
-- web-page
 
 ## I am community manager and ambassador of the Symphony project created by orchestra labs <br />
 - web-page(https://orchestralabs.org/) <br /> 
@@ -40,7 +39,7 @@ I believe in friendship <br />
 - [Cosmos Ecosystem Telegram](https://t.me/CosmosEcosystemNews_ru) <br />
 - [CryptoBase | PHMN Telegram](https://t.me/Crypto_Base_Chat) <br />
 - [CryptoBase | PHMN_UA Telegram](https://t.me/posthumanuachat) <br />
-- [Symphony Blockchain Telegram]((https://t.me/symphonychainchat)(https://t.me/symphonychain)) <br />
+- [Symphony Blockchain Telegram](https://t.me/symphonychainchat) <br />
 - [NFT Synchronization Telegram](https://t.me/NFTSynchronization) <br />
 
 ## also a member of the following DAODAO(https://daodao.zone/)
