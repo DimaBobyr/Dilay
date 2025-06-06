@@ -13,7 +13,7 @@ I believe in friendship <br />
 
 ## I am community manager and ambassador of the Symphony project created by orchestra labs <br />
 - web-page(https://orchestralabs.org/) <br /> 
-- discord(https://discord.gg/9CKUtjKJre) <br /
+- discord(https://discord.gg/9CKUtjKJre) <br />
 
 ##  I'm an ambassador for the Sputnik Network APPCHAIN project (https://sputnik.network/#ambassadors) <br /> 
 
