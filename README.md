@@ -9,6 +9,10 @@ I believe in friendship <br />
 - Telegramm https://t.me/cosmos_chiter_chat <br />
 - X https://x.com/Chiter_inCosmos <br />
 
+## We're validating  <br />
+Planq (https://ping.pub/planq/staking/plqvaloper193m20w4ekv2f7e5mhet9j9c3mnpvsk3m32wvtm) <br />
+Initia (https://scan.initia.xyz/interwoven-1/validators/initvaloper1txxnp8m68s8ngl5qzly2dk0hgy9vyv8caul307) <br />
+
 ## I'm an active member of the POSTHUMAN validator community (https://posthuman.digital/community) <br /> 
 
 ## I am community manager and ambassador of the Symphony project created by orchestra labs <br />
@@ -41,7 +45,7 @@ I believe in friendship <br />
 - [Symphony Blockchain Telegram](https://t.me/symphonychainchat) <br />
 - [NFT Synchronization Telegram](https://t.me/NFTSynchronization) <br />
 
-## also a member of the following DAODAO(https://daodao.zone/)
+## also a member of the following DAODAO(https://daodao.zone/) <br />
 
 - [Incentive SubDAO](https://daodao.zone/dao/juno19hxxc04rvmn4nj5tvd7h63fsmzaxj6gk3ss2wxtsgg97k54ylzysp0evep/members) <br />
 - [Binjas SubDAO - Classic](https://daodao.zone/dao/stars1r9xw9tl6kz6qgdec9uvl7lge9f0wyt6u25rd0hk7rvyjrnvprxuqf87tk5/members) <br />
