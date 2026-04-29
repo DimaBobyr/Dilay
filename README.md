@@ -24,6 +24,11 @@ Initia (https://scan.initia.xyz/interwoven-1/validators/initvaloper1txxnp8m68s8n
 ## I'm a mentor at the [Validator School](https://github.com/Distributed-Validators-Synctems) <br /> 
 - [TG group of DVS](https://t.me/DVSynctems) <br /> 
 
+## Content 🎙️Maker 
+- (https://youtu.be/CoCl2GG96BU?is=Vq6klT6JDMUxJwny) <br />
+- (https://youtube.com/@chiter_in_cosmos?si=TmK2qobSkIY_SoIh) <br />
+
+
 ## I write articles and guides on crypto projects  <br />
 - [Medium](https://medium.com/@voltron1902zp) <br />
 
